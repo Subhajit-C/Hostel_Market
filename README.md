@@ -126,7 +126,7 @@ hostel-market/
 
 - ⭐ Ratings & Reviews for users/items
 
-- 🗂️ Categories like Books, Electronics, Clothing, etc.
+- 🗂️ Categories like Books, Electronics, Clothing etc.
 
 - ❤️ Favorites/Bookmarks
 
